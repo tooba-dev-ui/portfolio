@@ -18,7 +18,6 @@ Programming Languages: JavaScript, Python
 Database: MongoDB, MySQL
 Tools: Git, GitHub, VS Code, Figma
 
-Update this list according to your actual skills.
 
 ✨ Features
 Clean and modern user interface
