@@ -70,4 +70,3 @@ npm run dev
 
 If you like my portfolio, consider giving this repository a star. Your support is appreciated!
 
-Made with ❤️ by [TOOBA]
